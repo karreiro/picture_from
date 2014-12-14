@@ -3,7 +3,7 @@ PictureFrom
 
 [![Build Status](https://travis-ci.org/karreiro/picture_from.svg?branch=master)](https://travis-ci.org/karreiro/picture_from)
 
-PictureFrom is a library for getting a picture for someone easyly, based on the e-mail, name or other relevant information to find someone picture.
+PictureFrom is a library for getting profile pictures.
 
 Contributing
 ============
