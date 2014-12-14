@@ -1,0 +1,10 @@
+AllCops:
+  # Include gemspec and Rakefile
+  Include:
+    - '**/*.gemspec'
+    - '**/Rakefile'
+  Exclude: []
+
+# Document classes and non-namespace modules.
+Documentation:
+  Enabled: false

@@ -1,0 +1,13 @@
+language: ruby
+
+rvm:
+  - 2.0.0
+
+notifications:
+  email:
+    on_success: change
+    on_failure: change
+
+script:
+  - bundle exec rspec
+  - bundle exec rubocop
