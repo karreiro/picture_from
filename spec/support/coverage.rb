@@ -2,8 +2,8 @@ if ENV['TRAVIS'] || ENV['COVERAGE']
   require 'simplecov'
 
   if ENV['TRAVIS']
-    require 'coveralls'
-    SimpleCov.formatter = Coveralls::SimpleCov::Formatter
+    require "codeclimate-test-reporter"
+    SimpleCov = CodeClimate::TestReporter
   end
 
   SimpleCov.start do
