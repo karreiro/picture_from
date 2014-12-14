@@ -1,4 +1,5 @@
 if ENV['TRAVIS'] || ENV['COVERAGE']
+
   require 'simplecov'
 
   if ENV['TRAVIS']
@@ -10,4 +11,5 @@ if ENV['TRAVIS'] || ENV['COVERAGE']
     add_filter '/spec/'
     add_filter '/vendor/bundle/'
   end
+
 end
