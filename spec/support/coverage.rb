@@ -3,7 +3,7 @@ if ENV['TRAVIS'] || ENV['COVERAGE']
   require 'simplecov'
 
   if ENV['TRAVIS']
-    require "codeclimate-test-reporter"
+    require 'codeclimate-test-reporter'
     SimpleCov = CodeClimate::TestReporter
   end
 
