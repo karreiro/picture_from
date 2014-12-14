@@ -3,7 +3,7 @@ PictureFrom
 
 [![Build Status](https://travis-ci.org/karreiro/picture_from.svg?branch=master)](https://travis-ci.org/karreiro/picture_from)
 [![Code Climate](https://codeclimate.com/github/karreiro/picture_from/badges/gpa.svg)](https://codeclimate.com/github/karreiro/picture_from)
-[![Coverage Status](https://coveralls.io/repos/karreiro/picture_from/badge.png)](https://coveralls.io/r/karreiro/picture_from)
+[![Test Coverage](https://codeclimate.com/github/karreiro/picture_from/badges/coverage.svg)](https://codeclimate.com/github/karreiro/picture_from)
 
 PictureFrom is a library for getting profile pictures.
 
