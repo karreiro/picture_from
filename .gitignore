@@ -5,6 +5,7 @@
 Gemfile.lock
 InstalledFiles
 coverage
+coverage.data
 doc/
 lib/bundler/man
 pkg

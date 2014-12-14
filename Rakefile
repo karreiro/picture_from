@@ -10,6 +10,12 @@ rescue Bundler::BundlerError => error
   exit error.status_code
 end
 
+desc 'Run RSpec with code coverage'
+task :coverage do
+  ENV['COVERAGE'] = 'true'
+  Rake::Task['spec'].execute
+end
+
 RSpec::Core::RakeTask.new(:spec)
 
 desc 'Default: run tests'
