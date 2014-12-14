@@ -1,6 +1,5 @@
 #!/usr/bin/env rake
 require 'rspec/core/rake_task'
-require 'yard'
 
 begin
   Bundler.setup :default, :development
@@ -13,5 +12,5 @@ end
 
 RSpec::Core::RakeTask.new(:spec)
 
-desc 'Default: run tests and generate docs'
+desc 'Default: run tests'
 task default: [:spec]

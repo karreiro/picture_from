@@ -1,10 +1,19 @@
-AllCops:
-  # Include gemspec and Rakefile
-  Include:
-    - '**/*.gemspec'
-    - '**/Rakefile'
-  Exclude: []
-
 # Document classes and non-namespace modules.
 Documentation:
+  Enabled: false
+
+# Keep blank lines around access modifiers.
+Style/EmptyLinesAroundAccessModifier:
+  Enabled: false
+
+# Keeps track of empty lines around block bodies.
+Style/EmptyLinesAroundBlockBody:
+  Enabled: false
+
+# Keeps track of empty lines around class bodies.
+Style/EmptyLinesAroundClassBody:
+  Enabled: false
+
+# Keeps track of empty lines around module bodies.
+Style/EmptyLinesAroundModuleBody:
   Enabled: false
