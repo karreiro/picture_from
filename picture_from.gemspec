@@ -18,6 +18,8 @@ Gem::Specification.new do |spec|
   spec.test_files    = spec.files.grep(/^spec\//)
   spec.require_paths = ['lib']
 
+  spec.add_runtime_dependency 'nokogiri', '~> 1.6.5'
+
   spec.add_development_dependency 'bundler', '~> 1.7'
   spec.add_development_dependency 'fakeweb', '~> 1.3'
   spec.add_development_dependency 'rubocop', '~> 0.28'
@@ -25,4 +27,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rspec', '~> 3.1'
   spec.add_development_dependency 'mocha', '~> 0.14'
   spec.add_development_dependency 'simplecov', '~> 0.9'
+
 end

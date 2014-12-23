@@ -1,0 +1,895 @@
+<!DOCTYPE html>
+<html lang="en" id="facebook" class="no_js">
+
+<head>
+    <meta charset="utf-8" />
+    <script>
+        window._cstart = +new Date();
+    </script>
+    <script>
+        function envFlush(a) {
+            function b(c) {
+                for (var d in a) c[d] = a[d];
+            }
+            if (window.requireLazy) {
+                window.requireLazy(['Env'], b);
+            } else {
+                window.Env = window.Env || {};
+                b(window.Env);
+            }
+        }
+        envFlush({
+            "ajaxpipe_token": "AXgF1w_wnk0OfekN",
+            "lhsh": "5AQE_hARa",
+            "khsh": "0`sj`e`rm`s-0fdu^gshdoer-0gc^eurf-3gc^eurf;1;enbtldou;fduDmdldourCxO`ld-2YLMIuuqSdptdru;qsnunuxqd;rdoe"
+        });
+    </script>
+    <script>
+        CavalryLogger = false;
+    </script>
+    <noscript>
+        <meta http-equiv="refresh" content="0; URL=/search.php?q=karreiro%40gmail.com&amp;_fb_noscript=1" />
+    </noscript>
+    <meta name="robots" content="noindex" />
+    <meta name="referrer" content="default" id="meta_referrer" />
+    <title id="pageTitle">karreiro&#064;gmail.com Profiles | Facebook</title>
+    <noscript>
+        <meta http-equiv="X-Frame-Options" content="DENY" />
+    </noscript>
+    <link type="text/css" rel="stylesheet" href="https://fbstatic-a.akamaihd.net/rsrc.php/v2/ya/r/2spKU5oHRM3.css" />
+    <link type="text/css" rel="stylesheet" href="https://fbstatic-a.akamaihd.net/rsrc.php/v2/y1/r/JBLx2MYjh_-.css" />
+    <link type="text/css" rel="stylesheet" href="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yq/r/5O97TtnaC9M.css" />
+    <link type="text/css" rel="stylesheet" href="https://fbstatic-a.akamaihd.net/rsrc.php/v2/y2/r/HLrr4qDqVlp.css" />
+    <link type="text/css" rel="stylesheet" href="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yn/r/L4FNlndVCIP.css" />
+    <link type="text/css" rel="stylesheet" href="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yc/r/RfTcR1v89DT.css" />
+
+    <script src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yn/r/WQRt108mkPx.js" crossorigin="anonymous"></script>
+
+    <link rel="shortcut icon" href="https://fbstatic-a.akamaihd.net/rsrc.php/yl/r/H3nktOa7ZMg.ico" />
+    <script>
+        (require("ServerJSDefine")).handleDefines([["URLFragmentPreludeConfig", [], {
+                "incorporateQuicklingFragment": true,
+                "hashtagRedirect": true
+            },
+            137], ["BootloaderConfig", [], {},
+            329], ["CSSLoaderConfig", [], {
+                "timeout": 5000
+            },
+            619], ["CurrentUserInitialData", [], {
+                "USER_ID": "0",
+                "ACCOUNT_ID": "0"
+            },
+            270], ["SiteData", [], {
+                "revision": 1541541,
+                "tier": "",
+                "push_phase": "V3",
+                "pkg_cohort": "EXP1:DEFAULT",
+                "vip": "31.13.73.1"
+            },
+            317], ["UserAgentData", [], {
+                "browserArchitecture": "32",
+                "browserFullVersion": "39.0.2171.95",
+                "browserMinorVersion": 0,
+                "browserName": "Chrome",
+                "browserVersion": 39,
+                "deviceName": "Unknown",
+                "engineName": "WebKit",
+                "engineVersion": "537.36",
+                "platformArchitecture": "32",
+                "platformName": "Mac OS X",
+                "platformVersion": "10.10",
+                "platformFullVersion": "10.10.1"
+            },
+            527], ["CurrentCommunityInitialData", [], {},
+            490], ["DTSGInitialData", [], {},
+            258], ["ISB", [], {},
+            330], ["LSD", [], {
+                "token": "AVrxKRul"
+            },
+            323], ["BanzaiConfig", [], {
+                "EXPIRY": 86400000,
+                "MAX_SIZE": 10000,
+                "MAX_WAIT": 150000,
+                "RESTORE_WAIT": 150000,
+                "blacklist": ["time_spent"],
+                "gks": {
+                    "adapterhooks": true,
+                    "boosted_pagelikes": true,
+                    "boosted_posts": true,
+                    "boosted_website": true,
+                    "jslogger": true,
+                    "kbshortcuts_feed": true,
+                    "mercury_send_error_logging": true,
+                    "miny_compression": true,
+                    "pages_client_logging": true,
+                    "time_spent_bit_array": true,
+                    "time_spent_debug": true,
+                    "useraction": true,
+                    "videos": true,
+                    "visibility_tracking": true,
+                    "vitals": true,
+                    "allow_userid_mismatch": true
+                }
+            },
+            7], ["AsyncRequestConfig", [], {
+                "retryOnNetworkError": "1"
+            },
+            328], ["FbtLogger", [], {
+                "logger": null
+            },
+            288], ["FbtQTOverrides", [], {
+                "overrides": {}
+            },
+            551], ["EagleEyeConfig", [], {
+                "seed": "0Gl1",
+                "sessionStorage": 1
+            },
+            294], ["TrackingConfig", [], {
+                "domain": "https:\/\/pixel.facebook.com"
+            },
+            325], ["ErrorSignalConfig", [], {
+                "uri": "https:\/\/error.facebook.com\/common\/scribe_endpoint.php"
+            },
+            319], ["InitialServerTime", [], {
+                "serverTime": 1419288335000
+            },
+            204], ["UFIConstants", [], {
+                "UFIActionType": {
+                    "COMMENT_LIKE": "fa-type:comment-like",
+                    "COMMENT_SET_SPAM": "fa-type:mark-spam",
+                    "DELETE_COMMENT": "fa-type:delete-comment",
+                    "DISABLE_COMMENTS": "fa-type:disable-comments",
+                    "LIVE_DELETE_COMMENT": "fa-type:live-delete-comment",
+                    "LIKE_ACTION": "fa-type:like",
+                    "SUBSCRIBE_ACTION": "fa-type:subscribe",
+                    "REMOVE_PREVIEW": "fa-type:remove-preview",
+                    "MARK_COMMENT_SPAM": "fa-type:mark-spam",
+                    "CONFIRM_COMMENT_REMOVAL": "fa-type:confirm-remove",
+                    "TRANSLATE_COMMENT": "fa-type:translate-comment",
+                    "COMMENT_LIKECOUNT_UPDATE": "fa-type:comment-likecount-update",
+                    "ADD_COMMENT_ACTION": "fa-type:add-comment"
+                },
+                "UFICommentOrderingMode": {
+                    "CHRONOLOGICAL": "chronological",
+                    "RANKED_THREADED": "ranked_threaded",
+                    "TOPLEVEL": "toplevel",
+                    "RECENT_ACTIVITY": "recent_activity",
+                    "FEATURED": "featured",
+                    "UNSUPPORTED": "unsupported"
+                },
+                "UFIFeedbackSourceType": {
+                    "PROFILE": 0,
+                    "NEWS_FEED": 1,
+                    "OBJECT": 2,
+                    "MOBILE": 3,
+                    "EMAIL": 4,
+                    "PROFILE_APPROVAL": 10,
+                    "TICKER": 12,
+                    "NONE": 13,
+                    "INTERN": 14,
+                    "ADS": 15,
+                    "EVENT_GOING_FLYOUT": 16,
+                    "PHOTOS_SNOWLIFT": 17,
+                    "NOTIFICATION_FLYOUT": 18,
+                    "PHOTOS_SNOWFLAKE": 20
+                },
+                "UFIPayloadSourceType": {
+                    "UNKNOWN": 0,
+                    "INITIAL_SERVER": 1,
+                    "LIVE_SEND": 2,
+                    "USER_ACTION": 3,
+                    "ENDPOINT_LIKE": 10,
+                    "ENDPOINT_COMMENT_LIKE": 11,
+                    "ENDPOINT_ADD_COMMENT": 12,
+                    "ENDPOINT_EDIT_COMMENT": 13,
+                    "ENDPOINT_DELETE_COMMENT": 14,
+                    "ENDPOINT_COMMENT_SPAM": 16,
+                    "ENDPOINT_REMOVE_PREVIEW": 17,
+                    "ENDPOINT_ID_COMMENT_FETCH": 18,
+                    "ENDPOINT_COMMENT_FETCH": 19,
+                    "ENDPOINT_TRANSLATE_COMMENT": 20,
+                    "ENDPOINT_BAN": 21,
+                    "ENDPOINT_SUBSCRIBE": 22,
+                    "ENDPOINT_COMMENT_LIKECOUNT_UPDATE": 23,
+                    "ENDPOINT_DISABLE_COMMENTS": 24,
+                    "ENDPOINT_ACTOR_CHANGE": 25
+                },
+                "UFIStatus": {
+                    "DELETED": "status:deleted",
+                    "SPAM": "status:spam",
+                    "SPAM_DISPLAY": "status:spam-display",
+                    "LIVE_DELETED": "status:live-deleted",
+                    "FAILED_ADD": "status:failed-add",
+                    "FAILED_EDIT": "status:failed-edit",
+                    "PENDING_EDIT": "status:pending-edit"
+                },
+                "attachmentTruncationLength": 80,
+                "commentTruncationLength": 420,
+                "commentTruncationMaxLines": 3,
+                "commentTruncationPercent": 0.6,
+                "commentURLTruncationLength": 60,
+                "defaultPageSize": 50,
+                "infiniteScrollRangeForQANDAPermalinks": 1000,
+                "minCommentsForOrderingModeSelector": 2,
+                "unavailableCommentKey": "unavailable_comment_key"
+            },
+            240]]);
+        new(require("ServerJS"))().handle({
+            "require": [["markJSEnabled"], ["lowerDomain"], ["URLFragmentPrelude"], ["Primer"], ["Bootloader"]]
+        });
+    </script>
+</head>
+
+<body class="UIPage_LoggedOut _2gsg webkit chrome mac Locale_en_US" dir="ltr">
+    <div class="_li">
+        <div id="pagelet_bluebar">
+            <div id="blueBarDOMInspector" class="_21mm">
+                <div id="blueBarNAXAnchor" class="_4f7n _xxp">
+                    <div>
+                        <div class="loggedout_menubar_container">
+                            <div class="clearfix loggedout_menubar">
+                                <div class="lfloat _ohe">
+                                    <h1><a href="/" title="Go to Facebook Home"><i class="fb_logo img sp_vhJzxAGsNyL sx_6e8c7a"><u>Facebook logo</u></i></a></h1>
+                                </div>
+                                <div class="menu_login_container rfloat _ohf">
+                                    <form id="login_form" action="https://www.facebook.com/login.php?login_attempt=1" method="post" onsubmit="return window.Event &amp;&amp; Event.__inlineSubmit &amp;&amp; Event.__inlineSubmit(this,event)">
+                                        <input type="hidden" name="lsd" value="AVrxKRul" autocomplete="off" />
+                                        <table cellspacing="0" role="presentation">
+                                            <tr>
+                                                <td class="html7magic">
+                                                    <label for="email">Email or Phone</label>
+                                                </td>
+                                                <td class="html7magic">
+                                                    <label for="pass">Password</label>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <input type="text" class="inputtext" name="email" id="email" value="" tabindex="1" />
+                                                </td>
+                                                <td>
+                                                    <input type="password" class="inputtext" name="pass" id="pass" tabindex="2" />
+                                                </td>
+                                                <td>
+                                                    <label class="uiButton uiButtonConfirm" id="loginbutton" for="u_0_1">
+                                                        <input value="Log In" tabindex="4" type="submit" id="u_0_1" />
+                                                    </label>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td class="login_form_label_field">
+                                                    <div>
+                                                        <div class="uiInputLabel clearfix uiInputLabelLegacy">
+                                                            <input id="persist_box" type="checkbox" name="persistent" value="1" tabindex="3" class="uiInputLabelInput uiInputLabelCheckbox" />
+                                                            <label for="persist_box" class="uiInputLabelLabel">Keep me logged in</label>
+                                                        </div>
+                                                        <input type="hidden" name="default_persistent" value="0" />
+                                                    </div>
+                                                </td>
+                                                <td class="login_form_label_field"><a href="https://www.facebook.com/recover/initiate">Forgot your password?</a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <input type="hidden" autocomplete="off" name="timezone" value="" id="u_0_2" />
+                                        <input type="hidden" name="lgnrnd" value="144535_bpLX" />
+                                        <input type="hidden" id="lgnjs" name="lgnjs" value="n" />
+                                        <input type="hidden" autocomplete="off" id="locale" name="locale" value="en_US" />
+                                        <input type="hidden" autocomplete="off" name="next" value="https://www.facebook.com/search.php?q=karreiro%40gmail.com" />
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="signupBanner">
+                            <div class="signup_bar_container">
+                                <div class="signup_box clearfix"><span class="signup_box_content"><a class="_42ft _42fu signup_btn selected _42gz _42gy" role="button" href="/r.php?locale=en_US">Sign Up</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="globalContainer" class="uiContextualLayerParent">
+            <div id="content" class="fb_content clearfix">
+                <div class="uiWashLayout">
+                    <div class="uiWashLayoutGrayWash uiWashLayoutEmptyWash uiWashLayoutOffsetWash"></div>
+                    <div class="uiWashLayoutContent PublicSearch_Container uiWashLayoutOffsetContent">
+                        <form class="mbm" action="/search.php" method="get" onsubmit="return window.Event &amp;&amp; Event.__inlineSubmit &amp;&amp; Event.__inlineSubmit(this,event)" id="u_0_0">
+                            <div class="uiHeader uiHeaderWithImage uiHeaderBottomBorder uiHeaderPage">
+                                <div class="clearfix uiHeaderTop">
+                                    <div class="rfloat _ohf">
+                                        <h2 class="accessible_elem">Search Results for karreiro&#064;gmail.com</h2><span class="uiSearchInput uiHeaderActions"><span><input type="text" class="inputtext" maxlength="100" aria-label="Search" value="karreiro&#064;gmail.com" autocomplete="off" name="q" placeholder="Search" /><button type="submit" title="Search"><span class="accessible_elem">Search</span>
+                                        </button>
+                                        </span>
+                                        </span>
+                                    </div>
+                                    <div>
+                                        <h2 class="uiHeaderTitle" aria-hidden="true"><i class="uiHeaderImage img sp_8YsMKbdwRUY sx_e4f95d"></i>Search Results for karreiro&#064;gmail.com</h2>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                        <div id="pagelet_search_results_0" data-referrer="pagelet_search_results_0">
+                            <div id="pagelet_search_results" data-referrer="pagelet_search_results">
+                                <div>
+                                    <div class="mbm detailedsearch_result detailedsearch_last_result">
+                                        <div class="clearfix">
+                                            <a class="_8o _8r lfloat _ohe" href="https://www.facebook.com/karreiro" onclick="if (event.button == 0) &#123; search_logged_ajax(&#123;&quot;ab&quot;:&quot;X&quot;,&quot;cururl&quot;:&quot;https:\/\/www.facebook.com\/karreiro&quot;,&quot;fc&quot;:0,&quot;gc&quot;:0,&quot;id&quot;:1079486510,&quot;init&quot;:&quot;s:unknown&quot;,&quot;is_friend&quot;:false,&quot;is_new_user&quot;:0,&quot;locale&quot;:&quot;en_US&quot;,&quot;o_type&quot;:1,&quot;original_q&quot;:&quot;karreiro\u0040gmail.com&quot;,&quot;q&quot;:&quot;karreiro\u0040gmail.com&quot;,&quot;rank&quot;:0,&quot;rc&quot;:0,&quot;sid&quot;:&quot;0.2645115855..1&quot;,&quot;start&quot;:0,&quot;typeahead_sid&quot;:null,&quot;u&quot;:&quot;https:\/\/www.facebook.com\/karreiro&quot;,&quot;t&quot;:&quot;c:image&quot;&#125;);  &#125;" onmouseup="if (event.button != 0) &#123; search_logged_ajax(&#123;&quot;ab&quot;:&quot;X&quot;,&quot;cururl&quot;:&quot;https:\/\/www.facebook.com\/karreiro&quot;,&quot;fc&quot;:0,&quot;gc&quot;:0,&quot;id&quot;:1079486510,&quot;init&quot;:&quot;s:unknown&quot;,&quot;is_friend&quot;:false,&quot;is_new_user&quot;:0,&quot;locale&quot;:&quot;en_US&quot;,&quot;o_type&quot;:1,&quot;original_q&quot;:&quot;karreiro\u0040gmail.com&quot;,&quot;q&quot;:&quot;karreiro\u0040gmail.com&quot;,&quot;rank&quot;:0,&quot;rc&quot;:0,&quot;sid&quot;:&quot;0.2645115855..1&quot;,&quot;start&quot;:0,&quot;typeahead_sid&quot;:null,&quot;u&quot;:&quot;https:\/\/www.facebook.com\/karreiro&quot;,&quot;t&quot;:&quot;c:image&quot;&#125;);  &#125;" tabindex="-1" aria-hidden="true">
+                                                <img class="img" src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/v/t1.0-1/p50x50/10689536_10203775984614964_7879673404686323387_n.jpg?oh=c615245ae9bd8f6e0b6a383d98b804f3&amp;oe=5542E2D3&amp;__gda__=1429850734_a9cf74496016327086126a48a5f5f98c" width="50" height="50" alt="" />
+                                            </a>
+                                            <div class="_8u _42ef">
+                                                <div class="pls">
+                                                    <div class="instant_search_title fsl fwb fcb"><a href="https://www.facebook.com/karreiro" onclick="if (event.button == 0) &#123; search_logged_ajax(&#123;&quot;ab&quot;:&quot;X&quot;,&quot;cururl&quot;:&quot;https:\/\/www.facebook.com\/karreiro&quot;,&quot;fc&quot;:0,&quot;gc&quot;:0,&quot;id&quot;:1079486510,&quot;init&quot;:&quot;s:unknown&quot;,&quot;is_friend&quot;:false,&quot;is_new_user&quot;:0,&quot;locale&quot;:&quot;en_US&quot;,&quot;o_type&quot;:1,&quot;original_q&quot;:&quot;karreiro\u0040gmail.com&quot;,&quot;q&quot;:&quot;karreiro\u0040gmail.com&quot;,&quot;rank&quot;:0,&quot;rc&quot;:0,&quot;sid&quot;:&quot;0.2645115855..1&quot;,&quot;start&quot;:0,&quot;typeahead_sid&quot;:null,&quot;u&quot;:&quot;https:\/\/www.facebook.com\/karreiro&quot;,&quot;t&quot;:&quot;c:name&quot;&#125;);  &#125;" onmouseup="if (event.button != 0) &#123; search_logged_ajax(&#123;&quot;ab&quot;:&quot;X&quot;,&quot;cururl&quot;:&quot;https:\/\/www.facebook.com\/karreiro&quot;,&quot;fc&quot;:0,&quot;gc&quot;:0,&quot;id&quot;:1079486510,&quot;init&quot;:&quot;s:unknown&quot;,&quot;is_friend&quot;:false,&quot;is_new_user&quot;:0,&quot;locale&quot;:&quot;en_US&quot;,&quot;o_type&quot;:1,&quot;original_q&quot;:&quot;karreiro\u0040gmail.com&quot;,&quot;q&quot;:&quot;karreiro\u0040gmail.com&quot;,&quot;rank&quot;:0,&quot;rc&quot;:0,&quot;sid&quot;:&quot;0.2645115855..1&quot;,&quot;start&quot;:0,&quot;typeahead_sid&quot;:null,&quot;u&quot;:&quot;https:\/\/www.facebook.com\/karreiro&quot;,&quot;t&quot;:&quot;c:name&quot;&#125;);  &#125;">Guilherme Carreiro</a>
+                                                    </div>
+                                                    <div class="fsm fwn fcg">
+                                                        <div class="fbProfileByline searchResultPersonByline"><span class="fbProfileBylineFragment"><span class="fbProfileBylineIconContainer"><i class="mrs fbProfileBylineIcon img sp_8YsMKbdwRUY sx_505ef1"></i></span><span class="fbProfileBylineLabel">Programmer at <a href="1"><a href="https://www.facebook.com/dextrasis">Dextra Sistemas</a></a></span></span>
+                                                        </div>
+                                                    </div>
+                                                    <div>
+                                                        <div class="mts detailedsearch_actions"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="pageFooter" data-referrer="page_footer">
+                <div id="contentCurve"></div>
+                <div role="contentinfo" aria-label="Facebook site links">
+                    <table class="uiGrid _51mz navigationGrid" cellspacing="0" cellpadding="0">
+                        <tbody>
+                            <tr class="_51mx">
+                                <td class="_51m- hLeft plm"><a href="r.php" title="Sign Up for Facebook">Sign Up</a>
+                                </td>
+                                <td class="_51m- hLeft plm"><a href="/login/" title="Log into Facebook">Log In</a>
+                                </td>
+                                <td class="_51m- hLeft plm"><a href="/mobile/?ref=pf" title="Check out Facebook Mobile.">Mobile</a>
+                                </td>
+                                <td class="_51m- hLeft plm"><a href="/find-friends?ref=pf" title="Find anyone on the web.">Find Friends</a>
+                                </td>
+                                <td class="_51m- hLeft plm"><a href="/badges/?ref=pf" title="Embed a Facebook badge on your website.">Badges</a>
+                                </td>
+                                <td class="_51m- hLeft plm"><a href="/directory/people/" title="Browse our people directory.">People</a>
+                                </td>
+                                <td class="_51m- hLeft plm"><a href="/directory/pages/" title="Browse our pages directory.">Pages</a>
+                                </td>
+                                <td class="_51m- hLeft plm"><a href="/places/" title="Check out popular places on Facebook.">Places</a>
+                                </td>
+                                <td class="_51m- hLeft plm _51mw"><a href="/games/" title="Check out Facebook games.">Games</a>
+                                </td>
+                            </tr>
+                            <tr class="_51mx">
+                                <td class="_51m- hLeft plm"><a href="/directory/places/" title="Browse our places directory.">Locations</a>
+                                </td>
+                                <td class="_51m- hLeft plm"><a href="/facebook" accesskey="8" title="Read our blog, discover the resource center, and find job opportunities.">About</a>
+                                </td>
+                                <td class="_51m- hLeft plm"><a href="/campaign/landing.php?placement=pflo&amp;campaign_id=402047449186&amp;extra_1=auto" title="Advertise on Facebook.">Create Ad</a>
+                                </td>
+                                <td class="_51m- hLeft plm"><a href="/pages/create/?ref_type=sitefooter" title="Create a Page">Create Page</a>
+                                </td>
+                                <td class="_51m- hLeft plm"><a href="https://developers.facebook.com/?ref=pf" title="Develop on our platform.">Developers</a>
+                                </td>
+                                <td class="_51m- hLeft plm"><a href="/careers/?ref=pf" title="Make your next career move to our awesome company.">Careers</a>
+                                </td>
+                                <td class="_51m- hLeft plm"><a href="/privacy/explanation" title="Learn about your privacy and Facebook.">Privacy</a>
+                                </td>
+                                <td class="_51m- hLeft plm"><a href="/help/cookies/?ref=sitefooter" title="Learn about cookies and Facebook.">Cookies</a>
+                                </td>
+                                <td class="_51m- hLeft plm _51mw"><a href="/policies/?ref=pf" accesskey="9" title="Review our terms and policies.">Terms</a>
+                                </td>
+                            </tr>
+                            <tr class="_51mx">
+                                <td class="_51m- hLeft plm"><a href="/help/?ref=pf" accesskey="0" title="Visit our Help Center.">Help</a>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="mvl copyright">
+                    <div><span> Facebook © 2014</span>
+                        <div class="fsm fwn fcg"><a rel="dialog" ajaxify="/settings/language/language/?uri=https%3A%2F%2Fwww.facebook.com%2Fsearch.php%3Fq%3Dkarreiro%2540gmail.com&amp;source=TOP_LOCALES_DIALOG" title="Use Facebook in another language." href="#" role="button">English (US)</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        /*<![CDATA[*/
+        function si_cj(m) {
+            setTimeout(function () {
+                new Image().src = "https:\/\/error.facebook.com\/common\/scribe_endpoint.php?c=si_clickjacking&t=6808" + "&m=" + m;
+            }, 5000);
+        }
+        if (top != self && !false) {
+            try {
+                if (parent != top) {
+                    throw 1;
+                }
+                var si_cj_d = ["apps.facebook.com", "apps.beta.facebook.com"];
+                var href = top.location.href.toLowerCase();
+                for (var i = 0; i < si_cj_d.length; i++) {
+                    if (href.indexOf(si_cj_d[i]) >= 0) {
+                        throw 1;
+                    }
+                }
+                si_cj("3 https:\/\/www.facebook.com\/search.php?q=karreiro\u002540gmail.com");
+            } catch (e) {
+                si_cj("1 \thttps:\/\/www.facebook.com\/search.php?q=karreiro\u002540gmail.com");
+                window.document.write("\u003Cstyle>body * {display:none !important;}\u003C\/style>\u003Ca href=\"#\" onclick=\"top.location.href=window.location.href\" style=\"display:block !important;padding:10px\">\u003Ci class=\"img sp_vhJzxAGsNyL sx_011c96\" style=\"display:block !important\">\u003C\/i>Go to Facebook.com\u003C\/a>"); /*vvGACVQ8*/
+            }
+        } /*]]>*/
+    </script>
+    <script></script>
+    <script type="text/javascript">
+        requireLazy(["Bootloader"], function (Bootloader) {
+            Bootloader.setResourceMap({
+                "mcX69": {
+                    "type": "js",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yF\/r\/21qjfuMFoIy.js"
+                },
+                "w\/gWb": {
+                    "type": "js",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yA\/r\/OIzG6IAxUGK.js"
+                },
+                "akZUw": {
+                    "type": "js",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y2\/r\/ioRdkayDxH2.js"
+                },
+                "BXgtP": {
+                    "type": "js",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y0\/r\/mWFkuCDPAT8.js"
+                },
+                "XBjpr": {
+                    "type": "js",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/ys\/r\/r8aVQLnl4lz.js"
+                },
+                "3NqyL": {
+                    "type": "js",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yo\/r\/6-MSu5sEJkF.js"
+                },
+                "0o6cu": {
+                    "type": "js",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yv\/r\/DPrzr59_j8j.js"
+                },
+                "4vv8\/": {
+                    "type": "js",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yf\/r\/JvK_C44obT2.js"
+                },
+                "1cuAW": {
+                    "type": "js",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yK\/r\/fzKB5-fKgAf.js"
+                },
+                "GGrOt": {
+                    "type": "css",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/ya\/r\/2spKU5oHRM3.css"
+                },
+                "J8y\/r": {
+                    "type": "css",
+                    "permanent": 1,
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y1\/r\/JBLx2MYjh_-.css"
+                },
+                "C0e7b": {
+                    "type": "css",
+                    "permanent": 1,
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yq\/r\/5O97TtnaC9M.css"
+                },
+                "nHPXb": {
+                    "type": "css",
+                    "permanent": 1,
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y2\/r\/HLrr4qDqVlp.css"
+                },
+                "ZeXu8": {
+                    "type": "css",
+                    "permanent": 1,
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yn\/r\/L4FNlndVCIP.css"
+                },
+                "t3VDd": {
+                    "type": "css",
+                    "permanent": 1,
+                    "nonblocking": 1,
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yc\/r\/RfTcR1v89DT.css"
+                },
+                "RmfSY": {
+                    "type": "js",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y_\/r\/Gc9iOjbwPxE.js"
+                },
+                "BeAJy": {
+                    "type": "js",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yO\/r\/bbNSJzRmo-m.js"
+                },
+                "KUnvQ": {
+                    "type": "js",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yF\/r\/-r3HI328Yz8.js"
+                },
+                "kbCsr": {
+                    "type": "js",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y-\/r\/KPwJPnzgjbR.js"
+                },
+                "20549": {
+                    "type": "js",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y_\/r\/lQV1u0lur73.js"
+                },
+                "cAkXN": {
+                    "type": "js",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yF\/r\/78GQS6mLtWt.js"
+                },
+                "oE4Do": {
+                    "type": "js",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yP\/r\/ZO0bLB2v6XA.js"
+                },
+                "cNca2": {
+                    "type": "js",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y4\/r\/yuKCSDDP1tN.js"
+                },
+                "wQT3S": {
+                    "type": "js",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yS\/r\/hEjHsQ7KdTq.js"
+                },
+                "IPVH9": {
+                    "type": "js",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yg\/r\/x0SHEYTaCH6.js"
+                },
+                "Yelqf": {
+                    "type": "js",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yc\/r\/ZleEr8Fcdsn.js"
+                },
+                "KqzU\/": {
+                    "type": "css",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/ye\/r\/ZmUS9rC1ZjU.css"
+                },
+                "TqH9D": {
+                    "type": "js",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y7\/r\/NdrvEUZJJcP.js"
+                },
+                "WC5zR": {
+                    "type": "js",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yk\/r\/K5M6CU1uElb.js"
+                },
+                "s2LGZ": {
+                    "type": "css",
+                    "permanent": 1,
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yk\/r\/SY0ePjc0ghG.css"
+                },
+                "S1Vjf": {
+                    "type": "js",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yF\/r\/5cGM7SIftt_.js"
+                },
+                "K9WvA": {
+                    "type": "js",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yu\/r\/auFjPlD-SPu.js"
+                },
+                "VDymv": {
+                    "type": "css",
+                    "permanent": 1,
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yO\/r\/V4mV_LYhuPp.css"
+                },
+                "Rs18G": {
+                    "type": "js",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yI\/r\/iqqxHqHkZcL.js"
+                },
+                "6AU0l": {
+                    "type": "js",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yX\/r\/uAtB4Wsl2Sl.js"
+                },
+                "AtxWD": {
+                    "type": "js",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yG\/r\/J74KdXozsKP.js"
+                },
+                "zyFOp": {
+                    "type": "js",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yT\/r\/Ri9nQJbah9T.js"
+                },
+                "xiSec": {
+                    "type": "js",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yX\/r\/Ahh4ujmpFi7.js"
+                },
+                "ccpBO": {
+                    "type": "js",
+                    "crossOrigin": 1,
+                    "src": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y9\/r\/hWgsbVnFDQl.js"
+                }
+            });
+            if (true) {
+                Bootloader.enableBootload({
+                    "React": {
+                        "resources": ["akZUw", "mcX69"],
+                        "module": true
+                    },
+                    "ExceptionDialog": {
+                        "resources": ["akZUw", "mcX69", "BXgtP", "J8y\/r", "ZeXu8", "RmfSY", "BeAJy", "KUnvQ", "kbCsr", "20549"],
+                        "module": true
+                    },
+                    "AsyncDOM": {
+                        "resources": ["mcX69", "cAkXN"],
+                        "module": true
+                    },
+                    "ConfirmationDialog": {
+                        "resources": ["mcX69", "J8y\/r", "akZUw", "oE4Do"],
+                        "module": true
+                    },
+                    "Dialog": {
+                        "resources": ["mcX69", "akZUw", "J8y\/r", "ZeXu8", "w\/gWb"],
+                        "module": true
+                    },
+                    "ErrorSignal": {
+                        "resources": ["mcX69", "cNca2"],
+                        "module": true
+                    },
+                    "Event": {
+                        "resources": ["mcX69"],
+                        "module": true
+                    },
+                    "AsyncDialog": {
+                        "resources": ["mcX69", "akZUw", "BXgtP", "J8y\/r", "ZeXu8"],
+                        "module": true
+                    },
+                    "AsyncRequest": {
+                        "resources": ["mcX69"],
+                        "module": true
+                    },
+                    "DialogX": {
+                        "resources": ["akZUw", "mcX69", "BXgtP", "J8y\/r", "ZeXu8"],
+                        "module": true
+                    },
+                    "XUIDialogTitle.react": {
+                        "resources": ["akZUw", "mcX69", "J8y\/r", "ZeXu8", "RmfSY", "BeAJy"],
+                        "module": true
+                    },
+                    "XUIDialogBody.react": {
+                        "resources": ["akZUw", "mcX69", "ZeXu8", "KUnvQ"],
+                        "module": true
+                    },
+                    "XUIDialogButton.react": {
+                        "resources": ["akZUw", "mcX69", "J8y\/r", "ZeXu8", "RmfSY", "KUnvQ"],
+                        "module": true
+                    },
+                    "XUIDialogFooter.react": {
+                        "resources": ["akZUw", "mcX69", "J8y\/r", "ZeXu8", "KUnvQ"],
+                        "module": true
+                    },
+                    "XUIGrayText.react": {
+                        "resources": ["akZUw", "mcX69", "ZeXu8", "RmfSY"],
+                        "module": true
+                    },
+                    "PhotoSnowlift": {
+                        "resources": ["mcX69", "akZUw", "J8y\/r", "ZeXu8", "w\/gWb", "BXgtP", "wQT3S", "RmfSY", "IPVH9", "KUnvQ", "Yelqf", "KqzU\/"],
+                        "module": true
+                    },
+                    "PhotoTagger": {
+                        "resources": ["mcX69", "TqH9D", "J8y\/r", "KUnvQ", "akZUw", "ZeXu8", "WC5zR", "wQT3S", "kbCsr", "BXgtP", "RmfSY", "BeAJy"],
+                        "module": true
+                    },
+                    "Live": {
+                        "resources": ["mcX69", "cAkXN", "akZUw"],
+                        "module": true
+                    },
+                    "PhotoTagApproval": {
+                        "resources": ["mcX69", "wQT3S", "kbCsr"],
+                        "module": true
+                    },
+                    "PhotoTags": {
+                        "resources": ["mcX69", "wQT3S", "J8y\/r", "kbCsr"],
+                        "module": true
+                    },
+                    "TagTokenizer": {
+                        "resources": ["mcX69", "RmfSY", "ZeXu8", "s2LGZ", "S1Vjf", "kbCsr", "J8y\/r", "akZUw", "K9WvA"],
+                        "module": true
+                    },
+                    "css:fb-photos-snowlift-fullscreen-css": {
+                        "resources": ["VDymv"]
+                    },
+                    "PhotosButtonTooltips": {
+                        "resources": ["mcX69", "akZUw", "J8y\/r", "ZeXu8", "Rs18G"],
+                        "module": true
+                    },
+                    "VideoRotate": {
+                        "resources": ["mcX69", "akZUw", "J8y\/r", "ZeXu8", "w\/gWb", "6AU0l"],
+                        "module": true
+                    },
+                    "AsyncResponse": {
+                        "resources": ["mcX69"],
+                        "module": true
+                    },
+                    "PhotoInlineEditor": {
+                        "resources": ["mcX69", "akZUw", "BeAJy", "J8y\/r", "wQT3S", "BXgtP", "TqH9D", "KUnvQ", "ZeXu8", "WC5zR", "kbCsr", "RmfSY", "K9WvA", "s2LGZ", "S1Vjf", "AtxWD"],
+                        "module": true
+                    },
+                    "Form": {
+                        "resources": ["mcX69", "J8y\/r"],
+                        "module": true
+                    },
+                    "SpotlightShareViewer": {
+                        "resources": ["mcX69", "BXgtP", "akZUw", "zyFOp"],
+                        "module": true
+                    },
+                    "Toggler": {
+                        "resources": ["mcX69", "J8y\/r", "akZUw", "ZeXu8"],
+                        "module": true
+                    },
+                    "Tooltip": {
+                        "resources": ["mcX69", "akZUw", "J8y\/r", "ZeXu8"],
+                        "module": true
+                    },
+                    "DOM": {
+                        "resources": ["mcX69"],
+                        "module": true
+                    },
+                    "Input": {
+                        "resources": ["mcX69", "J8y\/r"],
+                        "module": true
+                    },
+                    "trackReferrer": {
+                        "resources": [],
+                        "module": true
+                    },
+                    "DimensionTracking": {
+                        "resources": ["mcX69", "BXgtP"],
+                        "module": true
+                    },
+                    "HighContrastMode": {
+                        "resources": ["mcX69", "BXgtP"],
+                        "module": true
+                    },
+                    "DetectBrokenProxyCache": {
+                        "resources": ["mcX69", "BXgtP"],
+                        "module": true
+                    },
+                    "QuickSandSolver": {
+                        "resources": ["w\/gWb", "mcX69", "J8y\/r", "BXgtP", "xiSec", "ccpBO"],
+                        "module": true
+                    }
+                });
+            }
+        });
+        requireLazy(["ix"], function (ix) {
+            ix.add({
+                "arrow-right:white:small": {
+                    "sprited": false,
+                    "uri": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yq\/r\/0Hs5PxmJCg0.png",
+                    "width": 12,
+                    "height": 12
+                }
+            });
+        });
+    </script>
+    <script type="text/javascript">
+        requireLazy(["InitialJSLoader"], function (InitialJSLoader) {
+            InitialJSLoader.loadOnDOMContentReady(["mcX69", "w\/gWb", "akZUw", "BXgtP", "XBjpr", "3NqyL", "0o6cu", "4vv8\/", "1cuAW"]);
+        });
+    </script>
+    <script type="text/javascript">
+        requireLazy(["Bootloader"], function (Bootloader) {
+            Bootloader.configurePage(["GGrOt", "J8y\/r", "C0e7b", "nHPXb", "ZeXu8", "t3VDd"]);
+        });
+
+        (require("ServerJSDefine")).handleDefines([["TimeSpentConfig", [], {
+                "0_delay": 0,
+                "0_timeout": 8,
+                "delay": 200000,
+                "timeout": 64
+            },
+            142], ["ImmediateActiveSecondsConfig", [], {
+                "sampling_rate": 0
+            },
+            423]]);
+        require("InitialJSLoader").handleServerJS({
+            "elements": [["m_0_0", "u_0_0", 2], ["m_0_2", "login_form", 2], ["m_0_3", "loginbutton", 2], ["m_0_1", "u_0_2", 2], ["m_0_4", "login_form", 2]],
+            "require": [["PlaceholderListener"], ["PlaceholderOnsubmitFormListener"], ["FlipDirectionOnKeypress"], ["enforceMaxLength"], ["AsyncRequestNectarLogging"], ["Intl", "setPhonologicalRules", [], [{
+                "meta": {
+                    "\/_B\/": "([.,!?\\s]|^)",
+                    "\/_E\/": "([.,!?\\s]|$)"
+                },
+                "patterns": {
+                    "\/\u0001(.*)('|&#039;)s\u0001(?:'|&#039;)s(.*)\/": "\u0001$1$2s\u0001$3",
+                    "\/_\u0001([^\u0001]*)\u0001\/e": "mb_strtolower(\"\u0001$1\u0001\")",
+                    "\/\\^\\x01([^\\x01])(?=[^\\x01]*\\x01)\/e": "mb_strtoupper(\"\u0001$1\")",
+                    "\/_\u0001([^\u0001]*)\u0001\/": "javascript"
+                }
+            }]], ["PostLoadJS", "loadAndRequire", [], ["DimensionTracking"]], ["PostLoadJS", "loadAndCall", [], ["HighContrastMode", "init", [{
+                "isHCM": false,
+                "spacerImage": "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y4\/r\/-PAXP-deijE.gif"
+            }]]], ["PostLoadJS", "loadAndCall", [], ["DetectBrokenProxyCache", "run", [0, "c_user"]]], ["Artillery"], ["ScriptPath", "set", [], ["\/search.php", "9d5e6a66", "c814c249", ""]], ["ClickRefLogger"], ["userAction", "setUATypeConfig", [], [{
+                "ua:e": false
+            }]], ["ScriptPathState", "setUserURISampleRate", [], [0.0002]], ["userAction", "setCustomSampleConfig", [], [{
+                "ua:n": {
+                    "test": {
+                        "ua_id": {
+                            "test": true
+                        }
+                    }
+                },
+                "ua:i": {
+                    "snowlift": {
+                        "action": {
+                            "open": true,
+                            "close": true
+                        }
+                    },
+                    "snowflake": {
+                        "action": {
+                            "open": true,
+                            "close": true
+                        }
+                    },
+                    "canvas": {
+                        "action": {
+                            "mouseover": true,
+                            "mouseout": true
+                        }
+                    }
+                }
+            }]], ["Chromedome", "start", [], [{
+                "wipe": 1,
+                "hardConsole": 1,
+                "warnings": [["\u0025cCareful. This might not do what you think.", "font-size:40px; background-color:red; color:yellow; font-weight:bold; font-family:tahoma;"], ["\u0025cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or \"hack\" someone's account,\u0025c it is probably a scam and will give them access to your Facebook account.", "font-size:20px; font-family:tahoma", "font-size:20px; font-family:tahoma; font-weight:bold"]],
+                "block": "The developer console is temporarily disabled; see https:\/\/www.facebook.com\/selfxss for more information"
+            }]], ["UserActionHistory"], ["ScriptPathLogger", "startLogging", [], []], ["TimeSpentBitArrayLogger", "init", [], []], ["ModuleErrorLogger", "init", [], []], ["TimezoneAutoset", "setInputValue", ["m_0_1"], [{
+                    "__m": "m_0_1"
+                },
+                1419288335]], ["LoginFormController", "init", ["m_0_2", "m_0_3"], [{
+                    "__m": "m_0_2"
+                }, {
+                    "__m": "m_0_3"
+                },
+                null]], ["PostLoadJS", "loadAndCall", [], ["QuickSandSolver", "solveAndUpdateForm", [1, "q?h\u0013?2?\u001e4>?\u0040_???\r?p?FV??\u0018y\u0018\u0011Z\\v?", 10, 42, 100, "login_form", "AZkvGMPj4KQdL1wKpNKQ2nRcZCR2dgYcQyWksWPVUblbqN3RgUcr_xn9vn2ifoKZd_4x5RQCW19NemqJfeHTjq7iQD2H-oiLY_Y4T5gtAzrFx0oG7TtR-1Bc6hJmaoEB_FczoT44RposJITRUybAM5D4X9Vh8Abi3axCn0tCrcahN84v2MZPnubsIgts798Jx0YI7BLIsQo8PkTLo05TuR9URVonHPCGwLb1VGuZIlkJ_sglt_YvmjFJbVl05ngMIv0"]]]]
+        });
+
+        onloadRegister_DEPRECATED(function () {
+            window.loading_page_chrome = true;
+        });
+        onloadRegister_DEPRECATED(function () {
+            try {
+                $("email").focus();
+            } catch (_ignore) {}
+        });
+        onloadRegister_DEPRECATED(function () {
+            window.loading_page_chrome = false;
+        });
+    </script>
+</body>
+
+</html>
