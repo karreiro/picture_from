@@ -6,8 +6,5 @@ require 'fakeweb'
 require 'picture_from'
 
 RSpec.configure do |config|
-  config.before(:all) do
-    FakeWeb.allow_net_connect = false
-  end
   config.include FakeWebHelper
 end
