@@ -11,17 +11,17 @@ describe PictureFrom::FacebookPicture do
     end
   end
 
-  describe '#picture_from_user_info' do
-    subject { described_class.new }
+  describe 'online tests' do
 
-    it 'returns the image url' do
-      search_url = 'https://www.facebook.com/search.php?q=karreiro@gmail.com'
-      search_response = 'facebook_crawler.response'
-      fake(search_url, search_response)
+    describe '#picture_from_user_info' do
+      subject { described_class.new }
 
-      link = subject.picture_from_user_info('karreiro@gmail.com')
-      expect(link).to eq('http://graph.facebook.com/karreiro/picture')
+      it 'returns the image url' do
+        link = subject.picture_from_user_info('Mark Zuckerberg')
+        expect(link).to eq('http://graph.facebook.com/zuck/picture')
+      end
     end
+
   end
 
 end

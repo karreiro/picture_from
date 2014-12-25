@@ -39,7 +39,7 @@ PicutreFrom has many engines for finding the appropriate image for any user in y
     - by e-mail ✔
     - by user information ✔
   - Twitter
-    - by username
+    - by username ✔
     - by user information
   - Linkedin
     - by username

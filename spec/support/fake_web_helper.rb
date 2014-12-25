@@ -1,14 +1,20 @@
 module FakeWebHelper
-  def fake(uri, file, verb = :get)
-    FakeWeb.register_uri(verb, uri, response: response(file))
+  def fake(uri, options = {})
+    verb = options[:verb] || :get
+    FakeWeb.register_uri(verb, uri, response: response(options))
   end
 
-  def header(html)
-    "HTTP/1.1 200 OK\n\n#{html}"
+  def response(options)
+    header(options) + body(options)
   end
 
-  def response(file)
-    html = File.read("spec/fixtures/#{file}")
-    header(html)
+  def header(options)
+    status = options[:status] || 200
+    message = options[:message] || 'OK'
+    "HTTP/1.1 #{status} #{message}\n\n"
+  end
+
+  def body(options)
+    options[:file] ? File.read("spec/fixtures/#{options[:file]}") : ''
   end
 end
