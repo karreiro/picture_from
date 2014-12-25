@@ -8,17 +8,18 @@ Gem::Specification.new do |spec|
   spec.version       = PictureFrom::VERSION
   spec.authors       = ['Guilherme Carreiro']
   spec.email         = ['karreiro@gmail.com']
-  spec.description   = 'A gem for getting profile pictures.'
-  spec.summary       = spec.description
   spec.homepage      = 'https://github.com/karreiro/picture_from'
   spec.license       = 'MIT'
+  spec.description   = 'A gem for getting profile pictures.'
+  spec.summary       = 'PictureFrom is the most efficient library for getting '\
+                       'profile pictures.'
 
   spec.files         = `git ls-files`.split($RS)
   spec.executables   = spec.files.grep(/^bin\//) { |f| File.basename(f) }
   spec.test_files    = spec.files.grep(/^spec\//)
   spec.require_paths = ['lib']
 
-  spec.add_runtime_dependency 'nokogiri', '~> 1.6.5'
+  spec.add_runtime_dependency 'nokogiri', '~> 1.6'
 
   spec.add_development_dependency 'bundler', '~> 1.7'
   spec.add_development_dependency 'fakeweb', '~> 1.3'
