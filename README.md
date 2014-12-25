@@ -29,7 +29,7 @@ PictureFrom.url('karreiro')
 
 Engines
 ------------
-PicutreFrom has many engines for finding the appropriete image for any user in your application:
+PicutreFrom has many engines for finding the appropriate image for any user in your application:
 
   - Gravatar
     - by e-mail ✔
