@@ -27,6 +27,7 @@ module PictureFrom
           return image_url if image_url
         end
       end
+      nil
     end
 
     private
