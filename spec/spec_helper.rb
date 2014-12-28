@@ -6,5 +6,6 @@ require 'fakeweb'
 require 'picture_from'
 
 RSpec.configure do |config|
+  config.filter_run_excluding :online => !ENV['RUN_ONLINE_TESTS']
   config.include FakeWebHelper
 end
