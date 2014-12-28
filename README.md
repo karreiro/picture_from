@@ -23,8 +23,17 @@ require 'picture_from'
 
 Pass an user information to the library's interface:
 ``` ruby
-PictureFrom.url('karreiro')
-# => http://graph.facebook.com/karreiro/picture
+PictureFrom.url('zuck')
+# => http://graph.facebook.com/zuck/picture
+
+PictureFrom.url('Mark Zuckerberg')
+# => http://graph.facebook.com/zuck/picture
+
+PictureFrom.url('@unclebobmartin')
+# => https://pbs.twimg.com/profile_images/1102364992/clean_code_72_color_400x400.png
+
+PictureFrom.url('karreiro@gmail.com')
+# => http://www.gravatar.com/avatar/16be5820a296f5bce151f0c1b5e16fc8 
 ```
 
 Engines
