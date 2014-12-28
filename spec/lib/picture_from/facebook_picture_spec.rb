@@ -28,7 +28,7 @@ describe PictureFrom::FacebookPicture do
     end
   end
 
-  describe 'online tests', :online => true do
+  describe 'online tests', online: true do
 
     describe '#picture_from_user_info' do
       subject { described_class.new }

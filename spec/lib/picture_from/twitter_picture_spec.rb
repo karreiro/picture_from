@@ -12,7 +12,7 @@ describe PictureFrom::TwitterPicture do
     end
   end
 
-  describe 'online tests', :online => true do
+  describe 'online tests', online: true do
 
     describe '#picture_from_username' do
       subject { described_class.new }
