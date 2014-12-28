@@ -3,10 +3,11 @@ module PictureFrom
 
     def initialize
       @facebook_crawler = Crawlers::FacebookCrawler.new
+      @facebook_api = Apis::FacebookApi.new
     end
 
     def picture_from_username(username)
-      "http://graph.facebook.com/#{username}/picture"
+      @facebook_api.image_url_by_username(username)
     end
 
     def picture_from_user_info(user_info)

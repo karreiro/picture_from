@@ -32,18 +32,12 @@ Engines
 PicutreFrom has many engines for finding the appropriate image for any user in your application:
 
   - Gravatar
-    - by e-mail ✔
-    - by GitHub username
+    - by e-mail
   - Facebook
-    - by username ✔
-    - by e-mail ✔
-    - by user information ✔
-  - Twitter
-    - by username ✔
-    - by user information
-  - Linkedin
     - by username
-  - Ello
+    - by e-mail
+    - by user information
+  - Twitter
     - by username
 
 Contributing

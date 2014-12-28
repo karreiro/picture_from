@@ -11,7 +11,8 @@ module FakeWebHelper
   def header(options)
     status = options[:status] || 200
     message = options[:message] || 'OK'
-    "HTTP/1.1 #{status} #{message}\n\n"
+    location = options[:location] || ''
+    "HTTP/1.1 #{status} #{message}\nLocation: #{location}\n\n"
   end
 
   def body(options)
