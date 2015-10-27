@@ -4,7 +4,7 @@ module PictureFrom
   class GravatarPicture
 
     def initialize
-      @gravatar_crawler = Crawlers::GravatarCrawler.new
+      @gravatar_crawler = Apis::GravatarApi.new
     end
 
     def picture_from_email(email)

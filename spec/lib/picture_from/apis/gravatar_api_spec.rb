@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe PictureFrom::Crawlers::GravatarCrawler do
+describe PictureFrom::Apis::GravatarApi do
 
   describe '#image_url_by_username' do
     subject { described_class.new }
