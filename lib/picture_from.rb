@@ -1,6 +1,7 @@
 require 'picture_from/crawlers/base_crawler'
 require 'picture_from/crawlers/facebook_crawler'
 require 'picture_from/crawlers/twitter_crawler'
+require 'picture_from/apis/gravatar_api'
 require 'picture_from/apis/facebook_api'
 require 'picture_from/facebook_picture'
 require 'picture_from/gravatar_picture'
