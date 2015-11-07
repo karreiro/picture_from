@@ -10,15 +10,9 @@ module PictureFrom
       end
       class UserImage
         def initialize(email)
+          @request = HTTP::Request.new
           @url = "http://www.gravatar.com/avatar/#{digest(email)}?d=404"
-          @image = open_url
-        end
-
-        def open_url
-          uri = URI.escape(@url)
-          Nokogiri::HTML open(uri)
-        rescue OpenURI::HTTPError
-          nil
+          @image = @request.open_url(@url)
         end
 
         def avatar_image

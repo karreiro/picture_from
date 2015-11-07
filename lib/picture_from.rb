@@ -1,3 +1,4 @@
+require 'picture_from/http/request'
 require 'picture_from/crawlers/base_crawler'
 require 'picture_from/crawlers/facebook_crawler'
 require 'picture_from/crawlers/twitter_crawler'
